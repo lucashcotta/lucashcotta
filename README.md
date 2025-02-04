@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://github.com/lucashcotta">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=lucashcotta&show_icons=true&theme=transparent&include_all_commits=true&countprivate=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=lucashcotta&show_icons=true&theme=transparent&include_all_commits=true&countprivate=true&show_owner=true" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashcotta&theme=dark" />
 </div>
 
@@ -32,3 +32,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucashcotta/lucashcotta/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucashcotta/lucashcotta/output/github-contribution-grid-snake.svg">
 </picture>
+
+##
+
